@@ -1,0 +1,6 @@
+[run]
+omit =  ./backend/venv/*
+        ./mqtt-iot-client.py
+        ./mqtt-backend-client.py
+
+[xml]
