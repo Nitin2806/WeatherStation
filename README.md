@@ -1,8 +1,5 @@
-# congenial-broccoli
+#Weather Station
 
-![tests](https://github.com/arpitvaghela/congenial-broccoli/workflows/unittest/badge.svg)
-[![CodeFactor](https://www.codefactor.io/repository/github/arpitvaghela/congenial-broccoli/badge/main?s=16f701b83014ab43211b87c22bd8b82f72122f34)](https://www.codefactor.io/repository/github/arpitvaghela/congenial-broccoli/overview/main)
-[![codecov](https://codecov.io/gh/arpitvaghela/congenial-broccoli/branch/main/graph/badge.svg?token=45XCQ9ZBMN)](https://codecov.io/gh/arpitvaghela/congenial-broccoli)
 
 ## Tech Stack
 
